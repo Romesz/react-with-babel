@@ -1,0 +1,26 @@
+{
+  "name": "react-with-babel",
+  "description": "Create project with React ECMAScript6",
+  "version": "0.0.1",
+  "author": "Romano Firtermaiszter <firtermaiszter.romano@gmail.com>",
+  "main": "app.js",
+  "scripts": {
+    "serve": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "react",
+    "babel"
+  ],
+  "dependencies": {
+    "browserify": "^10.2.0",
+    "browser-sync": "^2.9.3",
+    "babelify": "^6.1.2",
+    "babel-runtime": "^5.8.20",
+    "react": "^0.13.3"
+  },
+  "license": "MIT"
+}
