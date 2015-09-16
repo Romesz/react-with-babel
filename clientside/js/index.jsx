@@ -1,5 +1,3 @@
-// https://strongloop.com/strongblog/the-foundations-of-universal-or-isomorphic-javascript/
-
 import React from 'react';
 
 class HelloWorld extends React.Component {
